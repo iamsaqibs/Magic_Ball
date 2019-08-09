@@ -7,12 +7,6 @@
 
 > This is the challenge app that I gave myself after learning some interacitve flutter widgets.
 
-## Install
-
-```sh
-npm install
-```
-
 ## Author
 
 👤 **Saqib S.**
